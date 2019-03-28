@@ -3,7 +3,7 @@ This program uses brute force to solve a Sudoku like puzzle. The completed puzzl
 
 To run the program:
 ```
-python3 calcudoku.py<puzzle_input_file
+python3 calcudoku.py < puzzle_input_file
 ```
 
 If you don't have version 3 of python, you can download it here: https://www.python.org/downloads/
