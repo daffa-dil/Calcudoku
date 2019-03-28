@@ -1,7 +1,5 @@
 # Calcudoku
-This program uses brute force to solve a Sudoku like puzzle.
-
-The completed puzzle's rows and columns must be composed of unique numbers. Based on the inputted cage sums and locations, the sum of the numbers in the cages must equal the cage sum.
+This program uses brute force to solve a Sudoku like puzzle. The completed puzzle's rows and columns must be composed of unique numbers. Based on the inputted cage sums and locations, the sum of the numbers in the cages must equal the cage sum.
 
 To run the program:
 ```
